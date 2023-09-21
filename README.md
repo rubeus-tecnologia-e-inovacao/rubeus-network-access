@@ -2,7 +2,7 @@
 
 ### Automações Rubeus
 
-Para integração com qualquer aplicação Rubeus estes endereços deve estar liberados:
+Para integração com qualquer aplicação Rubeus este endereço deve estar liberado:
 
 ```shell
 35.199.83.226
