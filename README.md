@@ -1,48 +1,49 @@
 # rubeus-network-access
 
+
 ### Automações Rubeus
 
-Para integração com qualquer aplicação Rubeus este endereço deve estar liberado:
+Para integração com qualquer aplicação Rubeus, mesmo utilizando nosso serviço de VPN, os seguintes endereços devem estar liberados:
 
 ```shell
 35.199.83.226
+35.198.20.226
 ```
+
+Demais endereços que devem estar autorizados no firewall - a depender da integração - quando não for utilizada a VPN Rubeus seguem abaixo.
 
 ### Plataforma Rubeus
 
-Para descobrir o endereço IP da Plataforma Rubeus basta executar o comando “ping” em modo de terminal e observar o endereço que responderá sua requisição, como na imagem abaixo:
-
-![ping demonstracao](resources/ping_crmdemonstracao.png)
-
-Telefonia (Asterisk Rubeus)
- ```shell
- 35.188.163.36
- ```
-Prova Online 
 ```shell
-34.95.151.137
-```
-
-Inscrições e Matrículas (Nova ficha)
-```shell
-34.95.151.137
-```
-
-Integrador TOTVS
-```shell
-34.67.233.17
-```
-
-Fila
-```shell
+34.134.207.150
+35.188.137.50
+34.70.60.239
+35.239.26.11
+35.184.150.16
+34.134.137.35
+35.232.66.224
+35.192.223.28
+34.67.166.6
 35.208.129.44
 ```
 
-CRM GKE
+### Telefonias
+ ```shell
+ 35.188.163.36
+ ```
+
+### Avaliação On-line 
 ```shell
-34.134.207.150
+34.95.151.137
 ```
-Call-totvs 
+
+### Inscrições e Matrículas TOTVS
 ```shell
+34.95.151.137
+```
+
+### Integração TOTVS
+```shell
+34.67.233.17
 34.121.201.21
 ```
