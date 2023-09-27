@@ -1,7 +1,7 @@
 # rubeus-network-access
 
 
-### Automações Rubeus
+### Integração Rubeus
 
 Para integração com qualquer aplicação Rubeus, mesmo utilizando nosso serviço de VPN, os seguintes endereços devem estar liberados:
 
@@ -10,7 +10,7 @@ Para integração com qualquer aplicação Rubeus, mesmo utilizando nosso servi�
 35.198.20.226
 ```
 
-Demais endereços que devem estar autorizados no firewall - a depender da integração - quando não for utilizada a VPN Rubeus seguem abaixo.
+Demais endereços que devem estar autorizados no controle de acesso de rede - a depender da integração - quando não for utilizada a VPN Rubeus seguem abaixo.
 
 ### Plataforma Rubeus
 
@@ -28,9 +28,9 @@ Demais endereços que devem estar autorizados no firewall - a depender da integr
 ```
 
 ### Telefonias
- ```shell
+```shell
  35.188.163.36
- ```
+```
 
 ### Avaliação On-line 
 ```shell
