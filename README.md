@@ -25,6 +25,8 @@ Demais endereços que devem estar autorizados no controle de acesso de rede - a 
 35.192.223.28
 34.67.166.6
 35.208.129.44
+34.173.48.248
+35.202.254.38
 ```
 
 ### Telefonias
