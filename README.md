@@ -1,4 +1,6 @@
+<div>
 <img align="right" height="50em" src="https://github.com/rubeus-tecnologia-e-inovacao/rubeus-network-access/assets/53451548/63f68cf9-3c7b-4bac-91c2-819267efcd18" title="Rubeus" />
+ </div>
  
 # Rubeus-network-access
 
